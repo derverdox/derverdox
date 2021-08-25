@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=derverdox&label=Profile%20views&color=ff0000&style=plastic" alt="derverdox" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=derverdox" alt="derverdox" /></a> </p>
-
 - 🔭 I’m currently working on [VCore](https://github.com/derverdox/VCore)
 
 - 👨‍💻 All of my projects are available at [https://github.com/derverdox](https://github.com/derverdox)
