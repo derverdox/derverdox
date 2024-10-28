@@ -3,6 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=derverdox&label=Profile%20views&color=ff0000&style=plastic" alt="derverdox" /> </p>
 
+
+
+### My Projects ###
+[MCCreativeLab](https://github.com/derverdox/MCCreativeLab): A personal fork of the PaperMC Minecraft Server Software.
+
+[VSerializer](https://github.com/VerdoxLabs/VSerializer): A library to create Serializers for java objects.
+
+[VPipeline](https://github.com/VerdoxLabs/VPipeline): A library to synchronize java objects between network nodes.
+
+[Bachelor Thesis: 'Blockchain and Games: Evaluating Practicality and Impact'](https://github.com/derverdox/BachelorThesis): Just read the abstract :)
+
 - 👨‍💻 All of my projects are available at [https://github.com/derverdox](https://github.com/derverdox)
 
 <h3 align="left">Connect with me:</h3>
