@@ -6,11 +6,11 @@
 
 
 ### My Projects ###
-[MCCreativeLab](https://github.com/derverdox/MCCreativeLab): A personal fork of the PaperMC Minecraft Server Software.
+[MCCreativeLab](https://github.com/derverdox/MCCreativeLab): A personal fork of the PaperMC minecraft server software.
 
-[VSerializer](https://github.com/VerdoxLabs/VSerializer): A library to create Serializers for java objects.
+[VSerializer](https://github.com/VerdoxLabs/VSerializer): A library used to create serializers for java objects.
 
-[VPipeline](https://github.com/VerdoxLabs/VPipeline): A library to synchronize java objects between network nodes.
+[VPipeline](https://github.com/VerdoxLabs/VPipeline): A library used to synchronize java objects between network nodes.
 
 [Bachelor Thesis: 'Blockchain and Games: Evaluating Practicality and Impact'](https://github.com/derverdox/BachelorThesis): Just read the abstract :)
 
